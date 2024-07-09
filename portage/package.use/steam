@@ -1,0 +1,8 @@
+app-emulation/wine-staging X wayland opengl pulseaudio usb vulkan llvm-libunwind abi_x86_64 -abi_x86_32 wow64
+virtual/wine abi_x86_64 -abi_x86_32
+gui-wm/gamescope pipewire -sdl
+dev-qt/qtbase opengl
+dev-qt/qtdeclarative opengl
+media-libs/libsdl2 vulkan
+media-libs/imgui vulkan opengl
+dev-libs/glib-2.78.6 dbus

@@ -1,0 +1,3 @@
+dev-util/electron system-* system-av1 -X pgo thinlto optimize-webui hevc
+app-editors/vscode electron-31
+media-libs/gst-plugins-base opengl

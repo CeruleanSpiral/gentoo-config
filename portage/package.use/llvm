@@ -1,0 +1,2 @@
+sys-devel/clang-common default-compiler-rt default-libcxx default-lld
+sys-devel/gcc -cet -ssp lto -valgrind
