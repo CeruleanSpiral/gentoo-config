@@ -9,6 +9,6 @@ fi
 
 # Put your fun stuff here.
 export GTK_THEME=adwaita-dark-amoled
-
-alias gsup="sudo emerge --sync && sudo emerge avuDN @world"
+export XDG_DATA_DIRS="/var/lib/flatpak/exports/share:/home/$USER/.local/share/flatpak/exports/share:$XDG_DATA_DIRS"
+alias gsup="sudo emerge --sync && sudo emerge -avuDN @world"
 alias gup="sudo emerge -avuDN @world"

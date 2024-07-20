@@ -1,1 +1,1 @@
-media-video/ffmpeg bluray chromium cuda dav1d libdrm openh264 vaapi x265
+media-video/ffmpeg bluray chromium cuda dav1d libdrm openh264 vaapi x265 vpx opus encode libass sdl x264 gpl pulseaudio X
